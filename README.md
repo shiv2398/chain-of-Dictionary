@@ -1,7 +1,6 @@
-Here's a README for the project based on the provided content:
 
 # AI-Powered Story Generator and Multilingual Travel Assistant
-[https://www.analyticsvidhya.com/blog/2024/07/chain-of-dictionary-technique-in-prompt-engineering/](https://www.analyticsvidhya.com/blog/2024/07/chain-of-dictionary-technique-in-prompt-engineering/)
+## [Mastering the Chain of Dictionary Technique in Prompt Engineering](https://www.analyticsvidhya.com/blog/2024/07/chain-of-dictionary-technique-in-prompt-engineering/)
 
 This project demonstrates the implementation of the Chain of Dictionary technique in AI applications, showcasing two main examples: a story generator and a multilingual travel assistant.
 
